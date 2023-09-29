@@ -1,0 +1,11 @@
+# Modules
+node_modules
+dist
+build
+NeuroNexus.egg-info
+
+# Cache
+__pycache__
+
+# Environment variables
+.env
